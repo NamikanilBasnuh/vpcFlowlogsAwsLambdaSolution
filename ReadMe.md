@@ -40,7 +40,7 @@ https://www.google.com/search?q=boto3+vpc&rlz=1C1CHBF_enUS889US889&oq=boto3+vpc&
 
 12) Client-> create_flow_logs() ....
 
-13) WE NEED A eventBridge to Trigger the LAMBDA !! Otherwise we can not execute our code that we write on code source! -> Type eventBridge on AWS console
+13) WE NEED A eventBridge to Trigger the LAMBDA !! Otherwise we can not execute our code that we write on code source! -> Type eventBridge on AWS consoleee
 
 
 
